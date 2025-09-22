@@ -1,0 +1,38 @@
+[
+  {
+    "ok": true,
+    "result": {
+      "message_id": 30,
+      "from": {
+        "id": 8070829088,
+        "is_bot": true,
+        "first_name": "SkyCastBot",
+        "username": "SkyCast68Bot"
+      },
+      "chat": {
+        "id": 6928053061,
+        "first_name": "Akshitha",
+        "last_name": "Reddy",
+        "type": "private"
+      },
+      "date": 1758553404,
+      "text": "Hello! Here's your quick daily rundown:\n\n☀️ **Weather:** Expect a pleasant day out there!\n\n📰 **Top News:**\n1.  Tech Giant Unveils Major New Product Line\n2.  Global Leaders Discuss Climate Action Summit\n3.  Economic Report Shows Strong Job Growth\n4.  Sports Team Secures Playoff Victory\n5.  New Health Study Reveals Breakthrough Findings\n\n📈 **Stock Update:** A key index closed at 253.53, gaining 8.03 points (+3.27%) today.\n\nHave a fantastic day!\n\nThis message was sent automatically with n8n",
+      "entities": [
+        {
+          "offset": 450,
+          "length": 41,
+          "type": "italic"
+        },
+        {
+          "offset": 491,
+          "length": 3,
+          "type": "text_link",
+          "url": "https://n8n.io/?utm_source=n8n-internal&utm_medium=powered_by&utm_campaign=n8n-nodes-base.telegram_8fdd60bbb6d1b672f8b9ad3d6cd5ef4423f9bc9ef78d634f9bc77271d373494e"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
+    }
+  }
+]
